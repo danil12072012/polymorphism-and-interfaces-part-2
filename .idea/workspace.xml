@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b739c4b-c54c-45eb-9fa7-e1f26ed4547b" name="Changes" comment="" />
+    <list default="true" id="3b739c4b-c54c-45eb-9fa7-e1f26ed4547b" name="Changes" comment="polymorphism and interfaces part 2">
+      <change afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enginable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WheeledTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N0t1knMbV1t8eFnwuLGLkaqWyL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,7 +71,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678812614791</updated>
+      <workItem from="1678812615915" duration="4965000" />
     </task>
+    <task id="LOCAL-00001" summary="polymorphism and interfaces part 2">
+      <created>1678812695880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678812695880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="polymorphism and interfaces part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphism and interfaces part 2" />
   </component>
 </project>
